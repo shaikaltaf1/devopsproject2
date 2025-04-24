@@ -1,3 +1,4 @@
+# Install java and Jenkins
 sudo apt update
 sudo apt install openjdk-17-jdk -y
 sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
