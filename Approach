@@ -1,2 +1,2 @@
 Create 1 instance and install terraform, Java, jenkins and ansible.
-with help of terraform create 3 more machines --- Where we will install K8-m, K8-s1,s2 and java via ansible.
+with help of terraform create 3 more machines --- Where we will install (java and K8-m) (K8-s1) (K8-s2) and  via ansible.
